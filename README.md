@@ -31,6 +31,8 @@ It looks like you're encountering issues with the command syntax for PowerShell.
    npm run dev
    ```
 
+   ![Example Image](https://github.com/Nayankumar4986/Json-data_TO_Frontend/blob/main/1.png)
+
 
 
 By using the correct PowerShell commands, you should be able to remove the `node_modules` directory and `package-lock.json` file, and proceed with reinstalling dependencies and running the development server.
